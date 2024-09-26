@@ -1,14 +1,14 @@
 a {
-    text-decoration: none; /*убрать подчеркивание ссылок?*/
-
+    text-decoration: none; /*убрать подчеркивание ссылок*/
 }
 
 .menu_link {
-    color: brown;
+    color: darkorange;
     font-size: 20px;
     line-height: 20px ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-stretch: wider;
+    font-weight: 700;
 }
 
 
@@ -17,6 +17,20 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-stretch: wider;
     color: mediumorchid;
+    font-weight: 700;
+
+}
+
+
+h2  {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(236, 20, 121);
+}
+
+h3 {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: maroon;
 }
 
 .h1_style {
@@ -24,20 +38,15 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-stretch: wider;
     color: maroon;
-    font-size: x-large;
-
-
+    font-size: 34px;
+    text-transform: inherit;
 }
 
 p {
 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: darkmagenta;
-    line-height: 30px;
-
-
-
-
+    line-height: 25px;
 
 }
 
@@ -46,18 +55,18 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: indigo;
     line-height: 17px;
+    
 }
 
 .good_name {
 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: indigo;
+    color: purple;
     font-stretch: wider;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 600;
 
 }
 
-h2  {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgb(236, 20, 121);
-    
-}
+
