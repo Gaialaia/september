@@ -1,0 +1,20 @@
+a {
+    text-decoration: none; /*убрать подчеркивание ссылок?*/
+
+}
+
+.menu_link {
+    color: brown;
+    font-size: 20px;
+    line-height: 20px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-stretch: wider;
+}
+
+
+h1 {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-stretch: wider;
+    color: maroon;
+}
