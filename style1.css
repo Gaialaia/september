@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+
+* {   /*для всех элементов */
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    scroll-behavior: smooth;
+    font-family: 'Questrial';
+
+}
+
+img {
+    max-width: 100%;
+    display: block; /*картинки становятся под друг другом*/
+}
+
+
+.container {
+    max-width: 1171.73px;
+    margin: 0 auto;
+
+}
+
+.be {
+    color: #f25822;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.header_nav {
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+  
+}
+
+
+
+.menu_link {
+    color: #000;
+}
+
+.menu_link_home{
+    color: #f25822;
+}
+
+.nav_get_started_button {
+    border-radius: 30px;
+    background: #f25822;
+    font-weight: 400;
+    font-size: 12px;
+    color: #fff;
+    border: none;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 60px;
+    color: #000;
+}
+
+.subtitle {
+    font-weight: 400;
+    font-size: 20px;
+    color: #888;
+}
+
+.start_now_button {
+    border-radius: 50px;
+    background: #f25822;
+    box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.2);
+    font-weight: 400;
+    font-size: 15px;
+    color: #fff;
+    border: none;
+  
+}
+
+.play_button {
+    background: #fff; 
+    border-radius: 50%;
+    border-color: #fff;
+}
+
+.watch_video {
+    font-weight: 400;
+    font-size: 15px;
+    color: #aaa;
+    border: none;
+    background-color: inherit;
+
+}
+
+.footer_navigation {
+    display: flex; 
+    justify-content:space-between;
+}
+
+.buttons_under_title {
+    display: flex
+}

@@ -1,0 +1,147 @@
+* {                       /*style reset*/
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box /*not to let an elelment get outside of a box*/
+
+}
+
+body {
+    scroll-behavior: smooth; 
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+
+.container {
+    max-width: 1146px;
+    max-width: 0 auto;
+}
+
+
+
+.head_layout {    /*rectangle17*/
+    width: 1915px;
+    height: 491px;
+    top: -705px;
+    left: 1611px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid #F30606
+}
+
+.title_layout {
+    width: 381px;
+    height: 291px;
+    top: -600px;
+    left: 1975px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid #000000;
+
+}
+
+.fearures {
+
+    width: 310px;
+    height: 226px;
+    top: -565px;
+    left: 2015px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.read_more {
+    font-family: Gilroy-Bold;
+    font-size: 11px;
+    line-height: 16.5px;
+    text-align: left;
+}
+
+.text {
+    color: #666666;
+}
+
+.title {
+
+}
+
+.services_layout {
+
+    width: 1920px;
+    height: 919px;
+    top: -214px;
+    left: 1611px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1.5px solid #FFFFFF
+}
+
+.rectangle_15 {
+
+    width: 1881px;
+    height: 898px;
+    top: -214px;
+    left: 1629px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid #0A06E8
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.body_title {
+    font-family: Gilroy-Bold;
+    font-size: 45px;
+    line-height: 52.73px;
+    text-align: left;
+}
+
+.body_text {
+    text-align: center;
+    color: #666666;
+}
+
+.rectangle_10 {
+
+    width: 1920px;
+    height: 919px;
+    top: -214px;
+    left: 1611px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FAFAFA;
+
+}
+
+.rectangle_19 {
+
+    width: 1440px;
+    height: 616px;
+    top: 32px;
+    left: 1868px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #000000
+
+}
+
+.rectangle_20 {
+
+    width: 1440px;
+    height: 616px;
+    top: 32px;
+    left: 1868px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #000000
+
+}
